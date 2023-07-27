@@ -34,8 +34,8 @@ In order to setup and run the app locally you just have to:
 
 
 1)Clone this repository.\
-2) ### `npm install`
-3) ### `npm start`
+2) ### `npm install`.\
+3) ### `npm start`.\
 4)Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
