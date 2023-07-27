@@ -11,29 +11,33 @@ The application is composed of the following features:
 4)Pagination enabled.\
 5)All the pages are responsive
 
+
 ### Firebase
 -As of this moment I am using firebase for user authentication, also enabled google sign in authentication.\
 -It is also used to store user data
 
 ### CommerseJS
-Fetching all products from CommerceJS API (We can add as many products as needed with details).\
-
-
+Fetching all products from CommerceJS API (We can add as many products as needed with details)
 
 ### In Progress
 -User based shopping cart(User will have account specific cart).
 
 
+
+
 ## Requirements
 Node.js + NPM (v4.x LTS)
+
 
 ## Installation
 In order to setup and run the app locally you just have to:
 
+
 1)Clone this repository.\
-2)npm install.\
-3)Open a browser and navigate to http://localhost:3000.\
-At this point, you should be seeing your local deploy of eCommerce site.
+2)`npm install`.\
+3)`npm start`
+4)Open a browser and navigate to http://localhost:3000.\
+At this point, you should be seeing your local deploy of eCommerce site.\
 
 In the project directory, you can run:
 
